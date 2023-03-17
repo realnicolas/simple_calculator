@@ -14,7 +14,7 @@ Use the calculator's buttons to do math operations.
 ### Notes
 Only works if its own buttons are used.
 
-
+---
 
 ## Português
 
